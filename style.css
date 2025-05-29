@@ -81,7 +81,35 @@ ul {
   gap: 10px;
   margin: 0;
 }
+.container2 {
+  padding-top: 30px;
+  padding-bottom: 90px;
+  text-align: center;
 
+}
+.container2 .container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+  margin-top: 32px;
+}
+
+.container img {
+  width: 200px;
+  height: 200px;
+  border: #3882f6;
+  border-radius: 15px;
+}
+
+.title {
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 900;
+}
+
+.info {
+  max-width: 200px;
+}
 .container3 {
   background-color: #e5e7eb;
 }
