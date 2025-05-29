@@ -18,9 +18,9 @@ body {
 
 .header p {
   font-size: 24px;
-  color: #F9FAF8;
+  color: #f9faf8;
   margin: 0;
-  font-weight: bold
+  font-weight: bold;
 }
 
 .hero-content {
@@ -85,7 +85,6 @@ ul {
   padding-top: 30px;
   padding-bottom: 90px;
   text-align: center;
-
 }
 .information-section .information-content {
   display: flex;
@@ -97,7 +96,6 @@ ul {
 .information-content img {
   width: 200px;
   height: 200px;
-  border: #3882f6;
   border-radius: 15px;
 }
 
@@ -110,8 +108,27 @@ ul {
 .info {
   max-width: 200px;
 }
-.container3 {
+.quote-section {
   background-color: #e5e7eb;
+  text-align: center;
+}
+
+.quote-block {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 70px;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: lighter;
+  color: #1f2937;
+}
+.quote-text {
+  margin-bottom: 0;
+}
+.quote-author {
+  text-align: right;
+  font-size: 18px;
+  font-weight: bold;
 }
 
 .container4 {
