@@ -81,27 +81,27 @@ ul {
   gap: 10px;
   margin: 0;
 }
-.container2 {
+.information-section {
   padding-top: 30px;
   padding-bottom: 90px;
   text-align: center;
 
 }
-.container2 .container {
+.information-section .information-content {
   display: flex;
   justify-content: center;
   gap: 52px;
   margin-top: 32px;
 }
 
-.container img {
+.information-content img {
   width: 200px;
   height: 200px;
   border: #3882f6;
   border-radius: 15px;
 }
 
-.title {
+.information-section h1 {
   font-size: 36px;
   color: #1f2937;
   font-weight: 900;
